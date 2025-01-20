@@ -12,3 +12,10 @@ go get -u github.com/gin-gonic/gin
 go get go.mongodb.org/mongo-driver
 go get go.mongodb.org/mongo-driver/bson
 go get github.com/golang-jwt/jwt
+
+
+
+To run: 
+
+`sudo docker compose up -d` launches the Dockerized MongoDB and mongo-express webui. 
+`go run .` runs the goaltracker.go file, launching the API. 
