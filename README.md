@@ -1,25 +1,11 @@
-ooga booga goes here: 
-
 ### Docs referred: 
 
 https://hub.docker.com/_/mongo/
 
-<!-- https://upper.io/v4/adapter/mongo/ -->
+https://pkg.go.dev/go.mongodb.org/mongo-driver
 
+https://pkg.go.dev/github.com/golang-jwt/jwt/v5
 
-
-### Go packages: 
-go get -u github.com/gorilla/mux
-
-go get -u github.com/gin-gonic/gin
-
-<!-- go get github.com/upper/db/v4/adapter/mongodb -->
-
-go get go.mongodb.org/mongo-driver
-
-go get go.mongodb.org/mongo-driver/bson
-
-go get github.com/golang-jwt/jwt
 
 
 
